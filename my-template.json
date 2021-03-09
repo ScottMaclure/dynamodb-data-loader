@@ -1,0 +1,12 @@
+{
+    "id": "$UUID",
+    "updated_at": $NOW,
+    "user_id": "uuid111",
+    "created_at": $NOW,
+    "deleted_at": null,
+    "category": "AWS::ADAM::PROJECT",
+    "prn": "prn:adam-demo666:demo666:master:$BUILD",
+    "name": "demo666",
+    "build_status": null,
+    "type": "AWS::ADAM::PROJECT::DEFAULT"
+}
